@@ -346,7 +346,7 @@ if __name__ == '__main__':
 
 
 
-#resample(b, 5, 1)
+
 #cv.imshow("1", resample(b, 5, 1))
 #cv.imshow("2", resample(b, 5, 2))
 #cv.imshow("3", resample(b, 5, 3))
